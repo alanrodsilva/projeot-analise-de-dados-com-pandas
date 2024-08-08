@@ -1,0 +1,16 @@
+id,nome,idade,genero,pressao_arterial,glicose,peso,adesao_tratamento
+1,João Silva,45,M,150,130,80,Sim
+2,Maria Oliveira,52,F,140,120,70,Não
+3,Carlos Souza,36,M,135,140,85,Sim
+4,Ana Santos,60,F,160,150,90,Não
+5,Lucas Pereira,28,M,125,110,75,Sim
+6,Patrícia Lima,47,F,145,135,82,Sim
+7,Roberto Costa,54,M,155,145,88,Não
+8,Juliana Martins,38,F,130,125,78,Sim
+9,Marcos Almeida,63,M,165,155,92,Não
+10,Eliane Ferreira,50,F,140,140,80,Sim
+11,Diego Rocha,42,M,150,130,85,Sim
+12,Fernanda Alves,49,F,145,125,77,Não
+13,André Silva,34,M,120,100,72,Sim
+14,Cláudia Carvalho,57,F,155,140,85,Não
+15,Pedro Gomes,41,M,140,130,79,Sim
